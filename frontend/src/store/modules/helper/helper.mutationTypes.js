@@ -1,0 +1,5 @@
+export const SET_LISTENER_ID = "SET_LISTENER_ID";
+export const TOGGLE_SIDEBAR = "TOGGLE_SIDEBAR";
+
+export const SHOW_LOADER = "SHOW_LOADER";
+export const HIDE_LOADER = "HIDE_LOADER";
